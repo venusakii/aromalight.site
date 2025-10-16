@@ -81,8 +81,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-accent/20 pt-8 text-center text-sm text-warm-text/60">
-          <p className="mb-2">© 2025 AromaLight.store. All rights reserved.</p>
-          
+          <p className="mb-2">© 2025 AromaLight.site. All rights reserved.</p>
         </div>
       </div>
     </footer>

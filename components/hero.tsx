@@ -76,7 +76,7 @@ export function Hero() {
       >
         <h2 className="font-serif text-4xl md:text-5xl text-warm-text mb-6 text-balance">Light. Aroma. Tranquility.</h2>
         <p className="text-lg text-warm-text/80 mb-8 leading-relaxed">
-          Create an atmosphere of harmony with aromatic lamps and lighting from AromaLight.store.
+          Create an atmosphere of harmony with aromatic lamps and lighting from AromaLight.site.
         </p>
         <Button
           size="lg"

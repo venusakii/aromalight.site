@@ -20,8 +20,8 @@ const lora = Lora({
 })
 
 export const metadata: Metadata = {
-  title: "AromaLight.store — Свет. Аромат. Спокойствие.",
-  description: "Создайте атмосферу гармонии с ароматическими лампами и светильниками от AromaLight.store",
+  title: "AromaLight.site — Свет. Аромат. Спокойствие.",
+  description: "Создайте атмосферу гармонии с ароматическими лампами и светильниками от AromaLight.site",
   generator: "v0.app",
 }
 
